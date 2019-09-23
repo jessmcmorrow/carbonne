@@ -1,0 +1,25 @@
+.root{
+    -fx-background-color: #66ff99;
+    -fx-text-fill: aliceblue;
+   }
+   #button {
+       -fx-background-color:transparent ;
+       -fx-background-radius:10px;
+       -fx-border-color:transparent;
+       -fx-border-width: 0 3 3 0;
+   }
+   #button:hover {
+       -fx-background-color: #a8ff33;
+       -fx-background-radius:10px;
+       -fx-border-color:black;
+       -fx-border-width: 5px;
+       -fx-border-radius: 10px;
+   }
+   .default-color0.chart-bar {
+       -fx-bar-fill: #FFFFFF;
+       visibility:hidden;
+   }
+   .default-color1.chart-bar {
+       -fx-bar-fill: #00FFCC;
+   }
+   

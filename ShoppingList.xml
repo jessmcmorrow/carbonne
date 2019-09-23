@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shopping_list>
+<item>
+	<name>carrot</name>
+	<quantity>0.5</quantity>
+	<country>south africa</country>
+	<brand>none</brand>
+</item>
+<item>
+ <name>chocolate</name>
+ <quantity>0.04</quantity>
+ <country>US</country>
+ <brand>kit kat</brand>
+ </item>
+<item>
+	<name>asparagus</name>
+	<quantity>0.00</quantity>
+	<country>peru</country>
+	<brand>none</brand>
+</item>
+<item>
+	<name>tomato</name>
+	<quantity>0.5</quantity>
+	<country>saudi arabia</country>
+	<brand>none</brand>
+</item>
+<item>
+	<name>grape</name>
+	<quantity>1.00</quantity>
+	<country>egypt</country>
+	<brand>none</brand>
+</item>
+<item>
+	<name>chocolate</name>
+	<quantity>1.00</quantity>
+	<country>uk</country>
+	<brand>kit kat</brand>
+</item>
+<item>
+ <name>beef</name>
+ <quantity>0.5</quantity>
+ <country>uk</country>
+ <brand>none</brand>
+</item>
+</shopping_list>

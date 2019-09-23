@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+<person>
+ <howManyFor>2</howManyFor>
+ <calorieIntake>2000</calorieIntake>
+ <dailyTransport>walk</dailyTransport>
+ <diet>vegan</diet>
+</person>
+</profile>
